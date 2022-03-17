@@ -1,4 +1,4 @@
 # DBMS-project
 
-DBMS project on topic Online Examination System
-Technology.
+DBMS project on topic agro culture system.
+
